@@ -97,6 +97,14 @@ ol>li{list-style: outside;}
     background-color: rgba(218, 165, 32, 0.363);
 }*/
 
+/*######SECION HOBBY#####*/
+#Ci table{
+    text-align: center;
+}
+
+#Ci table tr td{padding: 0 15vh;}
+#Ci table tr td img{border-radius: 100px;}
+
 /*##############*/
 table{margin-left: 3%;}
 
@@ -118,6 +126,8 @@ body, html{
 #qr{float: unset; margin-right: 1%; margin-left: 30%}
 footer{background-color: rgba(0, 0, 0, 0.747); padding: 2%;}
 
+
+/*######SmartPhone SCREEN#####*/
 @media screen and (max-device-width: 480px){
     body{font-size: 10px;}
     .top_nav{
